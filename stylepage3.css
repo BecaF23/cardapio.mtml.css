@@ -7,7 +7,7 @@ background-color: #c4bfbf
   position: relative;
   height: 30vh;
   width: 68,5vw;
-  background-image: url('../assets/imagens/bach1.jpg');
+  background-image: url('bach1.jpg');
 background-size: cover;
 }
 img{
