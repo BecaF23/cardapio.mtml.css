@@ -6,7 +6,7 @@ body{
   position: relative;
   height: 30vh;
   width: 68,5vw;
-  background-image: url('../assets/imagens/tiro-vertical-de-delicioso-pao-doce.jpg');
+  background-image: url('tiro-vertical-de-delicioso-pao-doce.jpg');
 background-size: cover;
 }
 h1{
