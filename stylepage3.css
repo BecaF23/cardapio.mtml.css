@@ -1,0 +1,80 @@
+body{
+margin: 0;
+background-color: #c4bfbf
+}
+
+.border{
+  position: relative;
+  height: 30vh;
+  width: 68,5vw;
+  background-image: url('../assets/imagens/bach1.jpg');
+background-size: cover;
+}
+img{
+ width: 100px;
+height: 100px;
+}
+h1 {
+text-align: center; 
+color: rgb(255, 255, 255);
+font-size: 30px;
+}
+header{
+font-size: 25px;
+padding-top: -4%;
+padding: 5px;
+height: 40vh;
+}
+.linkspag{
+color: #fff;
+text-decoration: none;
+}
+   
+h {
+width: 60px;
+height: 60px;
+vertical-align: middle;
+vertical-align: -webkit-baseline-middle;
+margin-top: -1%;
+margin-left: 1%;
+}
+/* lista de valor */
+.teste {
+  max-width:90%;
+}
+.teste li {
+  overflow:hidden;
+  display:flex;
+}
+.teste li span {
+  white-space: nowrap;
+}
+
+.teste li div:before {
+  content:'------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------';
+  white-space: nowrap;
+}
+.teste > a {
+  display:flex;
+  text-decoration:none;
+  color: rgb(0, 0, 0);
+}
+    .rodapé{
+        flex-shrink: 0;
+        background-color: rgb(0, 0, 0);
+        color: #fff;
+        padding-top: 0.05%;
+        padding-left: 20px;
+        padding-bottom: 1%;
+        font-size: 18px;
+    }
+    
+    .divisao{ 
+        border-left:1px solid #38546d; 
+        position:absolute;
+        left:50%;
+        top:137%; 
+        padding-left: 2%;
+        float: right;
+    }
+    
