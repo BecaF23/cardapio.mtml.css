@@ -42,7 +42,7 @@ div1{
     height: 80vh;
     width: 98,5vw;
    /* adicionando imagem de fundo */
-    background: url('/assets/imagens/ovo-e-pao-diferente.jpg');
+    background: url('ovo-e-pao-diferente.jpg');
     background-size: cover;
 }
 
